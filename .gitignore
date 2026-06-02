@@ -1,0 +1,17 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.pycache-local/
+.matplotlib-cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+.env
+.streamlit/secrets.toml
+notebooks/.ipynb_checkpoints/
+*.log
+outputs/charts/*.png
